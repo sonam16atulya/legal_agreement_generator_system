@@ -1,7 +1,7 @@
 # Legal Agreement Generator & Reviewer System
 
 <p align="center">
-  <img src="images/portal.jpeg" width="700">
+  <img src="portal.jpeg" width="700">
 </p>
 
 ## Overview
